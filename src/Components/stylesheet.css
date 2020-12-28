@@ -104,6 +104,7 @@ footer ul li img{
     text-align: center;
   }
   footer ul li{
+    padding-right: 0%;
     display: block;
     margin-bottom: 20px;
     //text-align: center;
@@ -112,6 +113,6 @@ footer ul li img{
       margin-left: -7%;
   }
   footer ul li img{
-    margin-left: -33%;
+    margin-left: -28%;
   }
 }
